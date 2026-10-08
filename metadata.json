@@ -1,0 +1,6 @@
+{
+  "name": "TRAINS OFFICE ANDAL",
+  "description": "Indian Railways Trains Branch Office Andal (UDL) Freight Operations Management System for Mix Load, CYM Unloading, Transhipment, PCML Diversion, and Sick Line Repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
